@@ -208,7 +208,7 @@ h6,
 }
 
 .page-header {
-    background: linear-gradient(rgba(15, 16, 11, .16), rgba(15, 16, 11, .16)), url(../img/bg-1.jpg) top center no-repeat;
+    background: linear-gradient(rgba(15, 16, 11, .16), rgba(15, 16, 11, .16)), url(../../luckybox/main.png) top center no-repeat;
     background-size: cover;
 }
 
